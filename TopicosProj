@@ -1,0 +1,5 @@
+	*Cadastro de clientes, com perfil do animal e serviços mais utilizados.
+	Cliente pode agendar consultas e outros serviços; E escolher qual funcionário prestará o serviço. Terá também a opção de cancelar, programar periodicamente ou reagendar o serviço.
+	Funcionários tem acesso ao cadastro dos clientes e acesso a sua agenda.
+	Gerentes tem acesso aos serviços mais utilizados e funcionários mais solicitados. 
+	* Dentro da aplicação o cliente tem acesso ao histórico de vacinas do animal e outros procedimentos realizados na clinica. Receberá também um lembrete próximo ao vencimento das vacinas e a opção de marcar uma nova consulta. 
